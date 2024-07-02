@@ -4,4 +4,4 @@ export default function Page() {
       <h1>Validate Payment</h1>
     </div>
   );
-};
+}
