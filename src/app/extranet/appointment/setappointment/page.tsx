@@ -4,4 +4,4 @@ export default function Page() {
       <h1>Set Appointmment</h1>
     </div>
   );
-};
+}
